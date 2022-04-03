@@ -5,12 +5,14 @@ This is a prototype of a medium-sized two-storey house based on the Skylark syst
 - This prototype does not have any stairs which makes it unsuitable for actual construction.
 - `SKYLARK250_COMB-G/END-Y2_detailed` was fixed manually because the joint did not fit into `SKYLARK250_VERGE-G_detailed` correctly due to being too short.
 - `SKYLARK250_COMB-B/END-X3_detailed` was fixed manually because the joint did not align with it's siblings.
-- `SKYLARK250_TIE` is having an issue with the inside dimension on SketchUp model is 35.5mm whereas in DXF file it is 36mm. When zooming into this component, you will notice that it does not fully fit. I left this unchanged.
+- `SKYLARK250_TIE` is having an issue with the inside dimension on SketchUp model is 35.5mm whereas in DXF file it is 36mm. When zooming into this component, you will notice that it does not fully fit. This was left unchanged.
 - `SKYLARK250_PEG` is having the same issue as was mentioned for `SKYLARK250_TIE`
 
 Adjustments made: 
 - Increased the joint height of `SKYLARK250_COMB-G/END-Y2_detailed` from 255mm to 285mm (matches other combs)
 - Increased the joint height of `SKYLARK250_COMB-B/END-X3_detailed` from 268mm to 298mm (matches other combs)
+
+![alt tag](https://github.com/muscut/Skylark/blob/main/SKYLARK250/Design%20kit/My%20designs/Medium%202-storey%20House/Medium%202-storey%20House.png)
 
 ## More information about WikiHouse
 A block-based WikiHouse timber building system, developed for 1-3 storey construction.
