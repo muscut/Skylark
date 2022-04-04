@@ -5,8 +5,8 @@ This is a design of a medium-sized two-storey house based on the Skylark system 
 - This design does not have any stairs which makes it unsuitable for actual construction.
 - `SKYLARK250_COMB-G/END-Y2_detailed` was fixed manually because the joint did not fit into `SKYLARK250_VERGE-G_detailed` correctly due to being too short.
 - `SKYLARK250_COMB-B/END-X3_detailed` was fixed manually because the joint did not align with it's siblings.
-- `SKYLARK250_TIE` is having an issue with the inside dimensions, on the SketchUp model it is 35.5mm whereas in DXF file it is 36mm. When zooming into this component, you will notice that it does not fully fit. This was left unchanged.
-- `SKYLARK250_PEG` is having the same issue as was mentioned for `SKYLARK250_TIE`
+- `SKYLARK250_TIE` has an issue with the inside dimensions, on the SketchUp model it is 35.5mm whereas in DXF file it is 36mm. When zooming into this component, you will notice that it does not fully fit. This was left unchanged.
+- `SKYLARK250_PEG` has the same issue as was mentioned for `SKYLARK250_TIE`
 - No blocks available yet to add windows on the front- and back-side of the upper floor.
 
 Adjustments made:
