@@ -13,7 +13,7 @@ Adjustments made:
 - Increased the joint height of `SKYLARK250_COMB-G/END-Y2_detailed` from 255mm to 285mm (matches other combs)
 - Increased the joint height of `SKYLARK250_COMB-B/END-X3_detailed` from 268mm to 298mm (matches other combs)
 
-![alt tag](https://github.com/muscut/Skylark/blob/main/SKYLARK250/Design%20kit/My%20designs/Medium%20two-storey%20house%20design%202/Medium%20two-storey%20house%20design%202.png)
+![alt tag](https://github.com/muscut/Skylark/blob/main/My%20designs/Medium%20two-storey%20house%20design%202/Medium%20two-storey%20house%20design%202.png)
 
 ## More information about WikiHouse
 A block-based WikiHouse timber building system, developed for 1-3 storey construction.
