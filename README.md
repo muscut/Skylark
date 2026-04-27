@@ -37,5 +37,3 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 Developed and maintained by the team at Open Systems Lab: https://www.opensystemslab.io
 
 ---
-
-![Skylark assembly axonometric diagram](https://github.com/wikihouseproject/Skylark/blob/main/WikiHouse_SKYLARK_assembly_axo.png)
